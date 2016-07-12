@@ -13,12 +13,20 @@
 		3A1D5AC11D3313A400246D8B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5ABF1D3313A400246D8B /* Main.storyboard */; };
 		3A1D5AC31D3313A400246D8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AC21D3313A400246D8B /* Assets.xcassets */; };
 		3A1D5AC61D3313A400246D8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AC41D3313A400246D8B /* LaunchScreen.storyboard */; };
-		3A1D5AD41D33158D00246D8B /* Art Mural Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5ACE1D33158D00246D8B /* Art Mural Gym.gpx */; };
-		3A1D5AD51D33158D00246D8B /* Ford Factory Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5ACF1D33158D00246D8B /* Ford Factory Lofts.gpx */; };
-		3A1D5AD61D33158D00246D8B /* Goats.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AD01D33158D00246D8B /* Goats.gpx */; };
-		3A1D5AD71D33158D00246D8B /* PCM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AD11D33158D00246D8B /* PCM.gpx */; };
-		3A1D5AD81D33158D00246D8B /* QR Code Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AD21D33158D00246D8B /* QR Code Gym.gpx */; };
-		3A1D5AD91D33158D00246D8B /* Troy-Peerless Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AD31D33158D00246D8B /* Troy-Peerless Lofts.gpx */; };
+		3A1D5B381D3470E900246D8B /* Art Mural Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */; };
+		3A1D5B391D3470E900246D8B /* Cumming City Hall.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */; };
+		3A1D5B3A1D3470E900246D8B /* Cumming Fairgrounds.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */; };
+		3A1D5B3B1D3470E900246D8B /* Cumming Historic Cemetery.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */; };
+		3A1D5B3C1D3470E900246D8B /* Cumming Playhouse.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */; };
+		3A1D5B3D1D3470E900246D8B /* Ford Factory Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */; };
+		3A1D5B3E1D3470E900246D8B /* Goats.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B301D3470E900246D8B /* Goats.gpx */; };
+		3A1D5B3F1D3470E900246D8B /* Murder Kroger.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */; };
+		3A1D5B401D3470E900246D8B /* O4W Park Water.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */; };
+		3A1D5B411D3470E900246D8B /* O4W Park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B331D3470E900246D8B /* O4W Park.gpx */; };
+		3A1D5B421D3470E900246D8B /* PCM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B341D3470E900246D8B /* PCM.gpx */; };
+		3A1D5B431D3470E900246D8B /* QR Code Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */; };
+		3A1D5B441D3470E900246D8B /* The Masquerade.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B361D3470E900246D8B /* The Masquerade.gpx */; };
+		3A1D5B451D3470E900246D8B /* Troy-Peerless Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,12 +40,20 @@
 		3A1D5AC21D3313A400246D8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A1D5AC51D3313A400246D8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A1D5AC71D3313A400246D8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3A1D5ACE1D33158D00246D8B /* Art Mural Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Art Mural Gym.gpx"; sourceTree = "<group>"; };
-		3A1D5ACF1D33158D00246D8B /* Ford Factory Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Ford Factory Lofts.gpx"; sourceTree = "<group>"; };
-		3A1D5AD01D33158D00246D8B /* Goats.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Goats.gpx; sourceTree = "<group>"; };
-		3A1D5AD11D33158D00246D8B /* PCM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PCM.gpx; sourceTree = "<group>"; };
-		3A1D5AD21D33158D00246D8B /* QR Code Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "QR Code Gym.gpx"; sourceTree = "<group>"; };
-		3A1D5AD31D33158D00246D8B /* Troy-Peerless Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Troy-Peerless Lofts.gpx"; sourceTree = "<group>"; };
+		3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Art Mural Gym.gpx"; sourceTree = "<group>"; };
+		3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming City Hall.gpx"; sourceTree = "<group>"; };
+		3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Fairgrounds.gpx"; sourceTree = "<group>"; };
+		3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Historic Cemetery.gpx"; sourceTree = "<group>"; };
+		3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Playhouse.gpx"; sourceTree = "<group>"; };
+		3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Ford Factory Lofts.gpx"; sourceTree = "<group>"; };
+		3A1D5B301D3470E900246D8B /* Goats.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Goats.gpx; sourceTree = "<group>"; };
+		3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Murder Kroger.gpx"; sourceTree = "<group>"; };
+		3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O4W Park Water.gpx"; sourceTree = "<group>"; };
+		3A1D5B331D3470E900246D8B /* O4W Park.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O4W Park.gpx"; sourceTree = "<group>"; };
+		3A1D5B341D3470E900246D8B /* PCM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PCM.gpx; sourceTree = "<group>"; };
+		3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "QR Code Gym.gpx"; sourceTree = "<group>"; };
+		3A1D5B361D3470E900246D8B /* The Masquerade.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "The Masquerade.gpx"; sourceTree = "<group>"; };
+		3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Troy-Peerless Lofts.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,12 +111,20 @@
 		3A1D5ACD1D33158D00246D8B /* GPX */ = {
 			isa = PBXGroup;
 			children = (
-				3A1D5ACE1D33158D00246D8B /* Art Mural Gym.gpx */,
-				3A1D5ACF1D33158D00246D8B /* Ford Factory Lofts.gpx */,
-				3A1D5AD01D33158D00246D8B /* Goats.gpx */,
-				3A1D5AD11D33158D00246D8B /* PCM.gpx */,
-				3A1D5AD21D33158D00246D8B /* QR Code Gym.gpx */,
-				3A1D5AD31D33158D00246D8B /* Troy-Peerless Lofts.gpx */,
+				3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */,
+				3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */,
+				3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */,
+				3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */,
+				3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */,
+				3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */,
+				3A1D5B301D3470E900246D8B /* Goats.gpx */,
+				3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */,
+				3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */,
+				3A1D5B331D3470E900246D8B /* O4W Park.gpx */,
+				3A1D5B341D3470E900246D8B /* PCM.gpx */,
+				3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */,
+				3A1D5B361D3470E900246D8B /* The Masquerade.gpx */,
+				3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */,
 			);
 			path = GPX;
 			sourceTree = "<group>";
@@ -162,15 +186,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A1D5AD91D33158D00246D8B /* Troy-Peerless Lofts.gpx in Resources */,
+				3A1D5B3A1D3470E900246D8B /* Cumming Fairgrounds.gpx in Resources */,
 				3A1D5AC61D3313A400246D8B /* LaunchScreen.storyboard in Resources */,
 				3A1D5AC31D3313A400246D8B /* Assets.xcassets in Resources */,
-				3A1D5AD51D33158D00246D8B /* Ford Factory Lofts.gpx in Resources */,
+				3A1D5B431D3470E900246D8B /* QR Code Gym.gpx in Resources */,
+				3A1D5B411D3470E900246D8B /* O4W Park.gpx in Resources */,
+				3A1D5B391D3470E900246D8B /* Cumming City Hall.gpx in Resources */,
+				3A1D5B3E1D3470E900246D8B /* Goats.gpx in Resources */,
+				3A1D5B3C1D3470E900246D8B /* Cumming Playhouse.gpx in Resources */,
+				3A1D5B441D3470E900246D8B /* The Masquerade.gpx in Resources */,
+				3A1D5B401D3470E900246D8B /* O4W Park Water.gpx in Resources */,
+				3A1D5B3D1D3470E900246D8B /* Ford Factory Lofts.gpx in Resources */,
+				3A1D5B3B1D3470E900246D8B /* Cumming Historic Cemetery.gpx in Resources */,
 				3A1D5AC11D3313A400246D8B /* Main.storyboard in Resources */,
-				3A1D5AD61D33158D00246D8B /* Goats.gpx in Resources */,
-				3A1D5AD71D33158D00246D8B /* PCM.gpx in Resources */,
-				3A1D5AD41D33158D00246D8B /* Art Mural Gym.gpx in Resources */,
-				3A1D5AD81D33158D00246D8B /* QR Code Gym.gpx in Resources */,
+				3A1D5B3F1D3470E900246D8B /* Murder Kroger.gpx in Resources */,
+				3A1D5B451D3470E900246D8B /* Troy-Peerless Lofts.gpx in Resources */,
+				3A1D5B421D3470E900246D8B /* PCM.gpx in Resources */,
+				3A1D5B381D3470E900246D8B /* Art Mural Gym.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

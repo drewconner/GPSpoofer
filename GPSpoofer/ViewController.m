@@ -7,12 +7,26 @@
 //
 
 #import "ViewController.h"
+#import <MapKit/MapKit.h>
+#import <CoreLocation/CoreLocation.h>
 
-@interface ViewController ()
+@interface ViewController () <CLLocationManagerDelegate>
+
+@property (nonatomic, strong) CLLocationManager *locationManager;
 
 @end
 
 @implementation ViewController
+
+- (CLLocationManager *)locationManager {
+	if (_locationManager == nil) {
+		_locationManager = [[CLLocationManager alloc] init];
+		_locationManager.delegate = self;
+		_locationManager.desiredAccuracy = kCLLocationAccuracyBest;
+	}
+	
+	return _locationManager;
+}
 
 - (void)viewDidLoad {
 	[super viewDidLoad];

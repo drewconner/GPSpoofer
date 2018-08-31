@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A0ECF6A21382D5800E4F626 /* Z2 - Between Hyatt Marriott.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF6721382D5700E4F626 /* Z2 - Between Hyatt Marriott.gpx */; };
+		3A0ECF6B21382D5800E4F626 /* Z3 - Marriott Marquis.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF6821382D5800E4F626 /* Z3 - Marriott Marquis.gpx */; };
+		3A0ECF6C21382D5800E4F626 /* Z1 - Hyatt Regency.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF6921382D5800E4F626 /* Z1 - Hyatt Regency.gpx */; };
+		3A0ECF6E213830E700E4F626 /* Z4 - Hyatt Marriott SE.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF6D213830E700E4F626 /* Z4 - Hyatt Marriott SE.gpx */; };
+		3A0ECF702138323C00E4F626 /* Z5 - Hyatt Marriott NE.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF6F2138323C00E4F626 /* Z5 - Hyatt Marriott NE.gpx */; };
+		3A0ECF7221383F9B00E4F626 /* Z0 - Hyatt Regency SW.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF7121383F9B00E4F626 /* Z0 - Hyatt Regency SW.gpx */; };
+		3A0ECF742138404C00E4F626 /* Z - Peachtree Center.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A0ECF732138404B00E4F626 /* Z - Peachtree Center.gpx */; };
+		3A1B94281D36ECD70040A483 /* Ponce Ball Park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1B94271D36ECD70040A483 /* Ponce Ball Park.gpx */; };
 		3A1D5AB81D3313A400246D8B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1D5AB71D3313A400246D8B /* main.m */; };
 		3A1D5ABB1D3313A400246D8B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1D5ABA1D3313A400246D8B /* AppDelegate.m */; };
 		3A1D5ABE1D3313A400246D8B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1D5ABD1D3313A400246D8B /* ViewController.m */; };
@@ -14,22 +22,26 @@
 		3A1D5AC31D3313A400246D8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AC21D3313A400246D8B /* Assets.xcassets */; };
 		3A1D5AC61D3313A400246D8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5AC41D3313A400246D8B /* LaunchScreen.storyboard */; };
 		3A1D5B381D3470E900246D8B /* Art Mural Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */; };
-		3A1D5B391D3470E900246D8B /* Cumming City Hall.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */; };
-		3A1D5B3A1D3470E900246D8B /* Cumming Fairgrounds.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */; };
-		3A1D5B3B1D3470E900246D8B /* Cumming Historic Cemetery.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */; };
-		3A1D5B3C1D3470E900246D8B /* Cumming Playhouse.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */; };
-		3A1D5B3D1D3470E900246D8B /* Ford Factory Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */; };
-		3A1D5B3E1D3470E900246D8B /* Goats.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B301D3470E900246D8B /* Goats.gpx */; };
-		3A1D5B3F1D3470E900246D8B /* Murder Kroger.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */; };
-		3A1D5B401D3470E900246D8B /* O4W Park Water.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */; };
-		3A1D5B411D3470E900246D8B /* O4W Park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B331D3470E900246D8B /* O4W Park.gpx */; };
-		3A1D5B421D3470E900246D8B /* PCM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B341D3470E900246D8B /* PCM.gpx */; };
-		3A1D5B431D3470E900246D8B /* QR Code Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */; };
-		3A1D5B441D3470E900246D8B /* The Masquerade.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B361D3470E900246D8B /* The Masquerade.gpx */; };
-		3A1D5B451D3470E900246D8B /* Troy-Peerless Lofts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */; };
+		3A1D5B421D3470E900246D8B /* 2 - PCM.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B341D3470E900246D8B /* 2 - PCM.gpx */; };
+		3A1D5B431D3470E900246D8B /* 3 - QR Code Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D5B351D3470E900246D8B /* 3 - QR Code Gym.gpx */; };
+		3A2851B21E6465C2003B8ED6 /* 1 - Starbucks Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A2851B11E6465C2003B8ED6 /* 1 - Starbucks Gym.gpx */; };
+		3A5E141B1E16F736005BF82A /* Windermere.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A5E141A1E16F736005BF82A /* Windermere.gpx */; };
+		3A5E1864211F639A00498E90 /* 4 - Chipotle.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3A5E1863211F639A00498E90 /* 4 - Chipotle.gpx */; };
+		3AE296EE1E83483E00F5288F /* Wetland 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3AE296EC1E83483E00F5288F /* Wetland 2.gpx */; };
+		3AE296EF1E83483E00F5288F /* Wetland 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3AE296ED1E83483E00F5288F /* Wetland 3.gpx */; };
+		3AE296F11E83497200F5288F /* River 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3AE296F01E83497200F5288F /* River 1.gpx */; };
+		3AE296F31E83497900F5288F /* Wetland 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 3AE296F21E83497900F5288F /* Wetland 1.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A0ECF6721382D5700E4F626 /* Z2 - Between Hyatt Marriott.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z2 - Between Hyatt Marriott.gpx"; sourceTree = "<group>"; };
+		3A0ECF6821382D5800E4F626 /* Z3 - Marriott Marquis.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z3 - Marriott Marquis.gpx"; sourceTree = "<group>"; };
+		3A0ECF6921382D5800E4F626 /* Z1 - Hyatt Regency.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z1 - Hyatt Regency.gpx"; sourceTree = "<group>"; };
+		3A0ECF6D213830E700E4F626 /* Z4 - Hyatt Marriott SE.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z4 - Hyatt Marriott SE.gpx"; sourceTree = "<group>"; };
+		3A0ECF6F2138323C00E4F626 /* Z5 - Hyatt Marriott NE.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z5 - Hyatt Marriott NE.gpx"; sourceTree = "<group>"; };
+		3A0ECF7121383F9B00E4F626 /* Z0 - Hyatt Regency SW.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z0 - Hyatt Regency SW.gpx"; sourceTree = "<group>"; };
+		3A0ECF732138404B00E4F626 /* Z - Peachtree Center.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Z - Peachtree Center.gpx"; sourceTree = "<group>"; };
+		3A1B94271D36ECD70040A483 /* Ponce Ball Park.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Ponce Ball Park.gpx"; sourceTree = "<group>"; };
 		3A1D5AB31D3313A400246D8B /* GPSpoofer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPSpoofer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A1D5AB71D3313A400246D8B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3A1D5AB91D3313A400246D8B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -41,19 +53,16 @@
 		3A1D5AC51D3313A400246D8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A1D5AC71D3313A400246D8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Art Mural Gym.gpx"; sourceTree = "<group>"; };
-		3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming City Hall.gpx"; sourceTree = "<group>"; };
-		3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Fairgrounds.gpx"; sourceTree = "<group>"; };
-		3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Historic Cemetery.gpx"; sourceTree = "<group>"; };
-		3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Cumming Playhouse.gpx"; sourceTree = "<group>"; };
-		3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Ford Factory Lofts.gpx"; sourceTree = "<group>"; };
-		3A1D5B301D3470E900246D8B /* Goats.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Goats.gpx; sourceTree = "<group>"; };
-		3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Murder Kroger.gpx"; sourceTree = "<group>"; };
-		3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O4W Park Water.gpx"; sourceTree = "<group>"; };
-		3A1D5B331D3470E900246D8B /* O4W Park.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O4W Park.gpx"; sourceTree = "<group>"; };
-		3A1D5B341D3470E900246D8B /* PCM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PCM.gpx; sourceTree = "<group>"; };
-		3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "QR Code Gym.gpx"; sourceTree = "<group>"; };
-		3A1D5B361D3470E900246D8B /* The Masquerade.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "The Masquerade.gpx"; sourceTree = "<group>"; };
-		3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Troy-Peerless Lofts.gpx"; sourceTree = "<group>"; };
+		3A1D5B341D3470E900246D8B /* 2 - PCM.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "2 - PCM.gpx"; sourceTree = "<group>"; };
+		3A1D5B351D3470E900246D8B /* 3 - QR Code Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "3 - QR Code Gym.gpx"; sourceTree = "<group>"; };
+		3A2851B11E6465C2003B8ED6 /* 1 - Starbucks Gym.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "1 - Starbucks Gym.gpx"; sourceTree = "<group>"; };
+		3A5E141A1E16F736005BF82A /* Windermere.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Windermere.gpx; sourceTree = "<group>"; };
+		3A5E143B1E1BCE0B005BF82A /* GPSpoofer copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "GPSpoofer copy-Info.plist"; path = "/Users/drew/Workspace/return7/GPSpoofer/GPSpoofer copy-Info.plist"; sourceTree = "<absolute>"; };
+		3A5E1863211F639A00498E90 /* 4 - Chipotle.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "4 - Chipotle.gpx"; sourceTree = "<group>"; };
+		3AE296EC1E83483E00F5288F /* Wetland 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Wetland 2.gpx"; sourceTree = "<group>"; };
+		3AE296ED1E83483E00F5288F /* Wetland 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Wetland 3.gpx"; sourceTree = "<group>"; };
+		3AE296F01E83497200F5288F /* River 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "River 1.gpx"; sourceTree = "<group>"; };
+		3AE296F21E83497900F5288F /* Wetland 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Wetland 1.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +81,7 @@
 			children = (
 				3A1D5AB51D3313A400246D8B /* GPSpoofer */,
 				3A1D5AB41D3313A400246D8B /* Products */,
+				3A5E143B1E1BCE0B005BF82A /* GPSpoofer copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -112,19 +122,23 @@
 			isa = PBXGroup;
 			children = (
 				3A1D5B2A1D3470E900246D8B /* Art Mural Gym.gpx */,
-				3A1D5B2B1D3470E900246D8B /* Cumming City Hall.gpx */,
-				3A1D5B2C1D3470E900246D8B /* Cumming Fairgrounds.gpx */,
-				3A1D5B2D1D3470E900246D8B /* Cumming Historic Cemetery.gpx */,
-				3A1D5B2E1D3470E900246D8B /* Cumming Playhouse.gpx */,
-				3A1D5B2F1D3470E900246D8B /* Ford Factory Lofts.gpx */,
-				3A1D5B301D3470E900246D8B /* Goats.gpx */,
-				3A1D5B311D3470E900246D8B /* Murder Kroger.gpx */,
-				3A1D5B321D3470E900246D8B /* O4W Park Water.gpx */,
-				3A1D5B331D3470E900246D8B /* O4W Park.gpx */,
-				3A1D5B341D3470E900246D8B /* PCM.gpx */,
-				3A1D5B351D3470E900246D8B /* QR Code Gym.gpx */,
-				3A1D5B361D3470E900246D8B /* The Masquerade.gpx */,
-				3A1D5B371D3470E900246D8B /* Troy-Peerless Lofts.gpx */,
+				3A2851B11E6465C2003B8ED6 /* 1 - Starbucks Gym.gpx */,
+				3A1D5B341D3470E900246D8B /* 2 - PCM.gpx */,
+				3A1D5B351D3470E900246D8B /* 3 - QR Code Gym.gpx */,
+				3A5E1863211F639A00498E90 /* 4 - Chipotle.gpx */,
+				3A1B94271D36ECD70040A483 /* Ponce Ball Park.gpx */,
+				3A5E141A1E16F736005BF82A /* Windermere.gpx */,
+				3AE296F21E83497900F5288F /* Wetland 1.gpx */,
+				3AE296EC1E83483E00F5288F /* Wetland 2.gpx */,
+				3AE296ED1E83483E00F5288F /* Wetland 3.gpx */,
+				3AE296F01E83497200F5288F /* River 1.gpx */,
+				3A0ECF732138404B00E4F626 /* Z - Peachtree Center.gpx */,
+				3A0ECF7121383F9B00E4F626 /* Z0 - Hyatt Regency SW.gpx */,
+				3A0ECF6921382D5800E4F626 /* Z1 - Hyatt Regency.gpx */,
+				3A0ECF6721382D5700E4F626 /* Z2 - Between Hyatt Marriott.gpx */,
+				3A0ECF6821382D5800E4F626 /* Z3 - Marriott Marquis.gpx */,
+				3A0ECF6D213830E700E4F626 /* Z4 - Hyatt Marriott SE.gpx */,
+				3A0ECF6F2138323C00E4F626 /* Z5 - Hyatt Marriott NE.gpx */,
 			);
 			path = GPX;
 			sourceTree = "<group>";
@@ -155,11 +169,12 @@
 		3A1D5AAB1D3313A400246D8B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = return7;
 				TargetAttributes = {
 					3A1D5AB21D3313A400246D8B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = SN57L3U3UD;
 					};
 				};
 			};
@@ -186,23 +201,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A1D5B3A1D3470E900246D8B /* Cumming Fairgrounds.gpx in Resources */,
+				3A0ECF742138404C00E4F626 /* Z - Peachtree Center.gpx in Resources */,
 				3A1D5AC61D3313A400246D8B /* LaunchScreen.storyboard in Resources */,
 				3A1D5AC31D3313A400246D8B /* Assets.xcassets in Resources */,
-				3A1D5B431D3470E900246D8B /* QR Code Gym.gpx in Resources */,
-				3A1D5B411D3470E900246D8B /* O4W Park.gpx in Resources */,
-				3A1D5B391D3470E900246D8B /* Cumming City Hall.gpx in Resources */,
-				3A1D5B3E1D3470E900246D8B /* Goats.gpx in Resources */,
-				3A1D5B3C1D3470E900246D8B /* Cumming Playhouse.gpx in Resources */,
-				3A1D5B441D3470E900246D8B /* The Masquerade.gpx in Resources */,
-				3A1D5B401D3470E900246D8B /* O4W Park Water.gpx in Resources */,
-				3A1D5B3D1D3470E900246D8B /* Ford Factory Lofts.gpx in Resources */,
-				3A1D5B3B1D3470E900246D8B /* Cumming Historic Cemetery.gpx in Resources */,
+				3A0ECF6E213830E700E4F626 /* Z4 - Hyatt Marriott SE.gpx in Resources */,
+				3A0ECF6B21382D5800E4F626 /* Z3 - Marriott Marquis.gpx in Resources */,
+				3AE296EF1E83483E00F5288F /* Wetland 3.gpx in Resources */,
+				3A0ECF6C21382D5800E4F626 /* Z1 - Hyatt Regency.gpx in Resources */,
+				3A1D5B431D3470E900246D8B /* 3 - QR Code Gym.gpx in Resources */,
 				3A1D5AC11D3313A400246D8B /* Main.storyboard in Resources */,
-				3A1D5B3F1D3470E900246D8B /* Murder Kroger.gpx in Resources */,
-				3A1D5B451D3470E900246D8B /* Troy-Peerless Lofts.gpx in Resources */,
-				3A1D5B421D3470E900246D8B /* PCM.gpx in Resources */,
+				3A1D5B421D3470E900246D8B /* 2 - PCM.gpx in Resources */,
+				3A2851B21E6465C2003B8ED6 /* 1 - Starbucks Gym.gpx in Resources */,
+				3A0ECF7221383F9B00E4F626 /* Z0 - Hyatt Regency SW.gpx in Resources */,
+				3A5E141B1E16F736005BF82A /* Windermere.gpx in Resources */,
+				3AE296F31E83497900F5288F /* Wetland 1.gpx in Resources */,
+				3A5E1864211F639A00498E90 /* 4 - Chipotle.gpx in Resources */,
+				3A0ECF702138323C00E4F626 /* Z5 - Hyatt Marriott NE.gpx in Resources */,
+				3AE296F11E83497200F5288F /* River 1.gpx in Resources */,
+				3A1B94281D36ECD70040A483 /* Ponce Ball Park.gpx in Resources */,
+				3A0ECF6A21382D5800E4F626 /* Z2 - Between Hyatt Marriott.gpx in Resources */,
 				3A1D5B381D3470E900246D8B /* Art Mural Gym.gpx in Resources */,
+				3AE296EE1E83483E00F5288F /* Wetland 2.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,13 +269,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -295,13 +324,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -329,10 +368,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = GPSpoofer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.return7.GPSpoofer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -340,10 +382,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = GPSpoofer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.return7.GPSpoofer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -366,6 +411,7 @@
 				3A1D5ACC1D3313A400246D8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
